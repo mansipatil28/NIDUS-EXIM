@@ -38,7 +38,7 @@ nidus-exim-website/
 
 ## ⚙️ Setup Instructions
 1. Clone the repository
-   git clone https://github.com/yourusername/nidus-exim-website.git
+   git clone https://github.com/mansipatil28/nidus-exim-website.git
 
 2. Import the database
    - Open phpMyAdmin
