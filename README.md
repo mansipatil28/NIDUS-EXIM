@@ -4,7 +4,7 @@ A professional corporate website built for a medical infrastructure
 company specializing in Operating Theatre construction and design.
 
 ## 🔗 Live Demo
-[Click here to view](#) <!-- apna live link daal do agar hosted hai -->
+[Click here to view](#) <!-- http://localhost/nidus_site/index.php -->
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
@@ -49,8 +49,5 @@ nidus-exim-website/
 
 4. Run on localhost using XAMPP or WAMP
 
-## 📸 Screenshots
-<!-- apne screenshots add karo -->
-
 ## 👨‍💻 Developer
-Your Name — [LinkedIn](#) | [Portfolio](#)
+MANSI PATIL
